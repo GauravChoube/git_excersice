@@ -4,3 +4,5 @@ hyderbad
 delhi
 bengaluru
 chennai
+nagpur
+indore
