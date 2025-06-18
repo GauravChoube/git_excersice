@@ -2,4 +2,5 @@ Mumbai
 kolkata
 hyderbad
 delhi
+bengaluru
 chennai
