@@ -9,3 +9,4 @@ indore
 surat
 jaipur
 manali
+lucknow
