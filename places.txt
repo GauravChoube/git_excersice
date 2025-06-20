@@ -7,3 +7,4 @@ chennai
 nagpur
 indore
 surat
+jaipure
