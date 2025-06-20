@@ -9,3 +9,5 @@ indore
 surat
 jaipur
 manali
+nagpur
+indore
